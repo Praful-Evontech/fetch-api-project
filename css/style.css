@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Permanent+Marker&display=swap');
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #65f4CD, #4799E9);
+    font-family: 'Nunito', sans-serif;
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 200;
+    color: #000;
+    font-family: 'Permanent Marker', cursive;
+}
+
+button {
+    background: #1B1A17;
+    /* background-image: linear-gradient(to bottom, #D18CE0, #ECA6A6); */
+    border-radius: 12px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+    box-shadow: 8px 8px 8px #000;
+}
+
+button:hover {
+    background: #F0A500;
+    /* background-image: linear-gradient(to bottom, #3cb0fd, #3498db); */
+    text-decoration: none;
+    color: #000;
+}
+
+#feed>div {
+    background-color: #062C30;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 10 10 10px black;
+    margin: 10px;
+    color: #fff;
+}

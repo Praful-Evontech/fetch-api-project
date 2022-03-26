@@ -1,0 +1,43 @@
+[{
+        "name": "Brad Traversy",
+        "age": 26,
+        "email": "traversy@gmail.com",
+        "position": "Full stack developer"
+    },
+    {
+        "name": "Mehul Mohan",
+        "age": 23,
+        "email": "Mehul@gmail.com",
+        "position": "front-end engineer"
+    },
+    {
+        "name": "Pratham Kumar",
+        "age": 27,
+        "email": "kumar@gmail.com",
+        "position": "javascript developer"
+    },
+    {
+        "name": "Sumeet",
+        "age": 28,
+        "email": "sumeet@gmail.com",
+        "position": "java developer"
+    },
+    {
+        "name": "Shubham",
+        "age": 22,
+        "email": "Shubham@gmail.com",
+        "position": "React developer"
+    },
+    {
+        "name": "Sunil",
+        "age": 23,
+        "email": "sunil@gmail.com",
+        "position": "Python Developer"
+    },
+    {
+        "name": "Harneeth Sethi",
+        "age": 25,
+        "email": "Harneeth@gmail.com",
+        "position": "PHP Developer"
+    }
+]

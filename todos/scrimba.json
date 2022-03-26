@@ -1,0 +1,19 @@
+[{
+        "name": "scrimba",
+        "age": 26,
+        "email": "traversy@gmail.com",
+        "position": "Full stack developer"
+    },
+    {
+        "name": "scrimba java",
+        "age": 23,
+        "email": "jackson@gmail.com",
+        "position": "front-end engineer"
+    },
+    {
+        "name": "scrimmba",
+        "age": 27,
+        "email": "scrimba@gmail.com",
+        "position": "javascript developer"
+    }
+]
